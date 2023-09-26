@@ -5,11 +5,7 @@ This is a simple blog application that allows users to create, edit, delete, lik
 
 ## Clone the Repository:
 
-<<<<<<< HEAD
-Clone this repository to your local machine using Git: https://github.com/Mohini675/blog-post-app
-=======
-Clone this repository to your local machine using Git:https://github.com/Mohini675/blog-post-app
->>>>>>> 7ca9975129da7da64c9a966b8609c57b09ccb65e
+Clone this repository to your local machine using Git : https://github.com/Mohini675/blogs-post-app
 
 ## Accessing the Website :
 You can access the website at : http://mohinipatelblogs.surge.sh/
